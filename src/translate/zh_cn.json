@@ -1,0 +1,18 @@
+{
+  "HOME": "首页",
+  "ABOUT": "关于",
+  "LOGIN": "登陆",
+  "SIGNUP": "注册",
+  "LOGOUT": "退出",
+  "PROFILE": "个人中心",
+  "SUBMIT": "提交",
+  "EDIT": "编辑",
+  "CANCEL": "取消",
+  "NICKNAME": "昵称",
+  "PASSWORD": "密码",
+  "EMAIL": "邮箱",
+  "REQUESTERR": "请求错误",
+  "SIGNERR": "加密错误",
+  "PARAMERR": "参数错误",
+  "TIMEOUTERR": "请求超时"
+}

@@ -1,0 +1,18 @@
+{
+  "HOME": "HOME",
+  "ABOUT": "ABOUT",
+  "LOGIN": "LOG IN",
+  "SIGNUP": "SIGN UP",
+  "LOGOUT": "LOG OUT",
+  "PROFILE": "Profile",
+  "SUBMIT": "Submit",
+  "EDIT": "Edit",
+  "CANCEL": "Cancel",
+  "NICKNAME": "Nickname",
+  "PASSWORD": "Password",
+  "EMAIL": "Email",
+  "REQUESTERR": "Request Error",
+  "SIGNERR": "Sign Error",
+  "PARAMERR": "Params Error",
+  "TIMEOUTERR": "Time Out"
+}

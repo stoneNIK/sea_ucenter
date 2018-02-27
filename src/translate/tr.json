@@ -1,0 +1,18 @@
+{
+  "HOME": "Anasayfa",
+  "ABOUT": "Hakkında",
+  "LOGIN": "Giriş Yap",
+  "SIGNUP": "Kayıt Ol",
+  "LOGOUT": "Çıkış Yap",
+  "PROFILE": "Profil",
+  "SUBMIT": "Gönder",
+  "EDIT": "Düzenle",
+  "CANCEL": "İptal Et",
+  "NICKNAME": "Kullanıcı Adı",
+  "PASSWORD": "Şifre",
+  "EMAIL": "Email",
+  "REQUESTERR": "Hatalı İstek",
+  "SIGNERR": "Hatalı Şifre",
+  "PARAMERR": "Parametre Hatası",
+  "TIMEOUTERR": "Zaman Aşımı"
+}
